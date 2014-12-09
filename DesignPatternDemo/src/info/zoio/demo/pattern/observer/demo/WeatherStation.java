@@ -11,7 +11,7 @@
 * @date 9 Dec 2014 22:16:16
 * @version V1.0
 */
-package info.zoio.demo.pattern.observer.demo1.instance;
+package info.zoio.demo.pattern.observer.demo;
 
 import info.zoio.demo.pattern.observer.demo1.iface.Subject;
 import info.zoio.demo.pattern.observer.demo1.iface.impl.CurrentConditionsDisplay;
