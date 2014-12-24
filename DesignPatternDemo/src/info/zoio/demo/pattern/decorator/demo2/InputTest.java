@@ -37,7 +37,7 @@ public class InputTest {
 			while ((c = inputStream.read()) >= 0) {
 				System.out.print((char)c);
 			}
-
+			inputStream.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
